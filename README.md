@@ -3,6 +3,7 @@
 ## 1. Información del Proyecto
 **Vocal Mind**
 - **Equipo:**
+
 **Daniel Guzmán Hidalgo**
   
 **Andy Arias Jiménez**
