@@ -4,8 +4,11 @@
 **Vocal Mind**
 - **Equipo:**
 **Daniel Guzmán Hidalgo**
+  
 **Andy Arias Jiménez**
+
 **Danny Arias Jiménez**
+
   **Roles**
 - Daniel Guzmán Hidalgo	Encargado de APIs y Claves	Integración de APIs (STT/TTS), autenticación.
 - Danny Arias Jiménez	Administrador de Base de Datos	Diseño, optimización y seguridad de la DB.
@@ -15,10 +18,12 @@
 - **Problema que se aborda:** Decidimos abordar un gran problema que ultimamente se esta enfrentando tanto en el pais como en el mundo la cual es la indecision de las personas las cuales no saben que hacer ya sea luego de salir del colegio o incluso ya de adultos
 - **Importancia y contexto:** La indecisión sobre el futuro es un problema creciente que afecta tanto a jóvenes como a adultos. Muchas personas no saben qué camino tomar después del colegio o incluso ya en su etapa adulta. Este proyecto busca orientar y apoyar en ese proceso de decisión, ayudando a las personas a descubrir sus intereses y tomar decisiones con seguridad. Brindar esta guía es clave para formar individuos más enfocados, motivados y preparados para enfrentar sus desafíos.  
 - **Usuarios/beneficiarios:**  Este proyecto está dirigido a jóvenes que están por terminar el colegio y no tienen claro qué camino seguir, así como a adultos que sienten dudas sobre su rumbo profesional o personal
+- 
 
 ## 3. Objetivos del Proyecto
  **Objetivo General:**  
  -Brindar orientación y apoyo mediante una IA a personas indecisas sobre su futuro académico, profesional o personal, ayudándoles a tomar decisiones informadas y seguras que contribuyan a su desarrollo integral.
+ 
  **Objetivos Específicos:**
 -Desarrollar una inteligencia artificial capaz de analizar intereses, habilidades y preferencias personales.
 -Ofrecer recomendaciones personalizadas de carreras disponibles en nuestra universidad.
