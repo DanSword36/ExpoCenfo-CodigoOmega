@@ -58,6 +58,7 @@
 - **Riesgos identificados y mitigaciones:**  
   **Riesgo 1:** Fallos en la conversión de voz a texto (por ruido, mala pronunciación o acento).
   **Mitigación:** Utilizar una API robusta con soporte para distintos acentos
+  
   **Riesgo 2:** Recomendaciones imprecisas o poco relevantes por parte de la IA.
   **Mitigación:** Ajustar los prompts de entrada y entrenar al modelo con ejemplos específicos de perfiles vocacionales. Además, permitir retroalimentación del usuario para mejorar las       sugerencias.
 
