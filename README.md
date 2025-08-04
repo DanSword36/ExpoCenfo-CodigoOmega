@@ -2,13 +2,13 @@
 
 ## 1. Información del Proyecto
 **Vocal Mind**
-- **Equipo:**
+**Equipo:**
 
-**Daniel Guzmán Hidalgo**
+Daniel Guzmán Hidalgo
   
-**Andy Arias Jiménez**
+Andy Arias Jiménez
 
-**Danny Arias Jiménez**
+Danny Arias Jiménez
 
   **Roles**
 - Daniel Guzmán Hidalgo	Encargado de APIs y Claves	Integración de APIs (STT/TTS), autenticación.
