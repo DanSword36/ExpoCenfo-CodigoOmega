@@ -26,6 +26,7 @@ Danny Arias Jiménez
  -Brindar orientación y apoyo mediante una IA a personas indecisas sobre su futuro académico, profesional o personal, ayudándoles a tomar decisiones informadas y seguras que contribuyan a su desarrollo integral.
  
  **Objetivos Específicos:**
+ 
 -Desarrollar una inteligencia artificial capaz de analizar intereses, habilidades y preferencias personales.
 -Ofrecer recomendaciones personalizadas de carreras disponibles en nuestra universidad.
 -Facilitar la toma de decisiones vocacionales mediante una plataforma accesible y confiable.
@@ -34,7 +35,9 @@ Danny Arias Jiménez
 ## 4. Requisitos Iniciales
 - Lista breve de lo que el sistema debe lograr:  
   - Requisito 1: Consultar la base de datos de las carreras de la universidad para tomar deciciones asertivas
+    
   - Requisito 2: El sistema debe permitir convertir voz a texto mediante una API, y enviar el texto resultante como prompt a la IA
+    
   - Requisito 3: crear un avtar virtual que interactue con el usuario de manera mas amigable
 
 ## 5. Diseño Preliminar del Sistema
