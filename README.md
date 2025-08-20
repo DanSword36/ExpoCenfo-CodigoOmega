@@ -41,7 +41,7 @@ Danny Arias Jiménez
   - Requisito 3: crear un avtar virtual que interactue con el usuario de manera mas amigable
 ## 5. Diseño Preliminar del Sistema
 
-<img width="1536" height="1024" alt="ChatGPT Image 3 ago 2025, 22_45_05" src="https://github.com/user-attachments/assets/60f68e26-c590-4ebe-8c20-e0003a5726dc" />
+
 
 - **Componentes previstos:**  
   - RaspberryPI 2 
