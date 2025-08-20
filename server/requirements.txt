@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+vosk
+pdfplumber
+scikit-learn
+numpy
+pyttsx3
+pydantic
+python-dotenv
