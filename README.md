@@ -36,9 +36,8 @@ Danny Arias Jiménez
 - Lista breve de lo que el sistema debe lograr:  
   - Requisito 1: Consultar la base de datos de las carreras de la universidad para tomar deciciones asertivas
     
-  - Requisito 2: El sistema debe permitir convertir voz a texto mediante una API, y enviar el texto resultante como prompt a la IA
+  - Requisito 2: El sistema debe permitir convertir voz a texto mediante, y enviar el texto resultante como prompt a la IA
     
-  - Requisito 3: crear un avtar virtual que interactue con el usuario de manera mas amigable
 ## 5. Diseño Preliminar del Sistema
 
 
@@ -46,7 +45,7 @@ Danny Arias Jiménez
 - **Componentes previstos:**  
   - RaspberryPI 2 
   - Microfono y Pantalla 
-  - LLM/API: Gemini
+  - Vosk, Wave
     
 
 
@@ -64,11 +63,11 @@ Danny Arias Jiménez
 
 
 - **Riesgos identificados y mitigaciones:**  
-  **Riesgo 1:** Fallos en la conversión de voz a texto (por ruido, mala pronunciación o acento).
+  **Riesgo 1:** Una voz poco Humana
   
-  **Mitigación:** Utilizar una API robusta con soporte para distintos acentos
+  **Mitigación:** Utilizar un modelo más complejo pero de paga
   
-  **Riesgo 2:** Recomendaciones imprecisas o poco relevantes por parte de la IA.
+  **Riesgo 2:** errores al conectarse con el servidor vosk
   
   **Mitigación:** Ajustar los prompts de entrada y entrenar al modelo con ejemplos específicos de perfiles vocacionales. Además, permitir retroalimentación del usuario para mejorar las       sugerencias.
 
